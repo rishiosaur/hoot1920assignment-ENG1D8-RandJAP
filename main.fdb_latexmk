@@ -1,11 +1,11 @@
 # Fdb version 3
-["xdvipdfmx"] 1572874564 "main.xdv" "main.pdf" "main" 1572876318
-  "main.xdv" 1572874564 34340 10b1e06aab275e5adcbda99320311b6e "xelatex"
+["xdvipdfmx"] 1572885188 "main.xdv" "main.pdf" "main" 1572885189
+  "main.xdv" 1572885188 34128 5464349f7556ffc7ab0d4097a92f08e2 "xelatex"
   (generated)
   "main.pdf"
-["xelatex"] 1572874563 "/Users/rishikothari/Documents/School/Term 1/ENG1D8-A English/Shakespeare/Assignments/Romeo and Juliet AP/main.tex" "main.xdv" "main" 1572876318
-  "/Users/rishikothari/Documents/School/Term 1/ENG1D8-A English/Shakespeare/Assignments/Romeo and Juliet AP/main.tex" 1572876318 5016 0ede78dbf2d4c86e720623982eba986d ""
-  "/dev/null" 1572876317 0 d41d8cd98f00b204e9800998ecf8427e ""
+["xelatex"] 1572885187 "/Users/rishikothari/Documents/School/Term 1/ENG1D8-A English/Shakespeare/Assignments/Romeo and Juliet AP/main.tex" "main.xdv" "main" 1572885189
+  "/Users/rishikothari/Documents/School/Term 1/ENG1D8-A English/Shakespeare/Assignments/Romeo and Juliet AP/main.tex" 1572885186 5001 c27990fb660de89570bd43680e5a1c47 ""
+  "/dev/null" 1572885188 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -100,11 +100,11 @@
   "/usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf" 1559599508 35683 50a220a7a2a515000b0c7ffa04d5889f ""
   "/usr/local/texlive/2019/texmf-var/web2c/xetex/xelatex.fmt" 1561654035 3752870 377d6b23b352abaa667dd82c912e8194 ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "main.aux" 1572874564 651 febbb91a593ab5a4b2d05d0b304f165f "xelatex"
-  "main.out" 1572874564 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "main.tex" 1572876318 5016 0ede78dbf2d4c86e720623982eba986d ""
+  "main.aux" 1572885188 651 febbb91a593ab5a4b2d05d0b304f165f "xelatex"
+  "main.out" 1572885188 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "main.tex" 1572885186 5001 c27990fb660de89570bd43680e5a1c47 ""
   (generated)
-  "main.log"
   "main.aux"
-  "main.out"
   "main.xdv"
+  "main.log"
+  "main.out"
